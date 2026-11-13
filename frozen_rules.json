@@ -1,0 +1,22 @@
+{
+  "window_s": 10.0,
+  "step_s": 10.0,
+  "min_n": 160,
+  "min_span_s": 8.0,
+  "max_gap_s": 0.5,
+  "gap_break_s": 0.5,
+  "clock_reset": "any backwards step",
+  "clock_tol_s": 0.25,
+  "min_overlap_frac": 0.5,
+  "window_gate": "both sensors pass the rules and window start/end residuals within clock_tol_s; pair-level offsets reported only",
+  "split_seed": 42,
+  "split_fractions": {
+    "train": 0.6,
+    "eval": 0.2
+  },
+  "split_sizes": {
+    "train": 31,
+    "eval": 10,
+    "test": 10
+  }
+}

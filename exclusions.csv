@@ -1,0 +1,86 @@
+Subject_ID,Stream,Seg_ID,Activity_Code,n_rows,level,reason
+1649,watch_accel,2765,M,1160,rows,Label_Conflict_Shared_Timestamp
+1649,watch_accel,2766,O,1160,rows,Label_Conflict_Shared_Timestamp
+1649,watch_gyro,3695,M,1159,rows,Label_Conflict_Shared_Timestamp
+1649,watch_gyro,3696,O,1159,rows,Label_Conflict_Shared_Timestamp
+1629,phone_accel,535,A,3573,segment,duplicated segment
+1629,phone_accel,536,B,3573,segment,duplicated segment
+1629,phone_accel,537,C,3573,segment,duplicated segment
+1629,phone_accel,538,D,3572,segment,duplicated segment
+1629,phone_accel,539,E,3573,segment,duplicated segment
+1629,phone_accel,540,F,3572,segment,duplicated segment
+1629,phone_accel,541,G,3573,segment,duplicated segment
+1629,phone_accel,542,H,3573,segment,duplicated segment
+1629,phone_accel,543,I,3572,segment,duplicated segment
+1629,phone_accel,544,J,3573,segment,duplicated segment
+1629,phone_accel,545,K,8940,segment,duplicated segment
+1629,phone_accel,546,L,3573,segment,duplicated segment
+1629,phone_accel,547,M,3571,segment,duplicated segment
+1629,phone_accel,548,O,3572,segment,duplicated segment
+1629,phone_accel,549,P,3573,segment,duplicated segment
+1629,phone_accel,550,Q,3572,segment,duplicated segment
+1629,phone_accel,551,R,3573,segment,duplicated segment
+1629,phone_accel,552,S,3572,segment,duplicated segment
+1629,phone_gyro,1463,A,3569,segment,duplicated segment
+1629,phone_gyro,1464,B,3570,segment,duplicated segment
+1629,phone_gyro,1465,C,3569,segment,duplicated segment
+1629,phone_gyro,1466,D,3569,segment,duplicated segment
+1629,phone_gyro,1467,E,3568,segment,duplicated segment
+1629,phone_gyro,1468,F,3569,segment,duplicated segment
+1629,phone_gyro,1469,G,3569,segment,duplicated segment
+1629,phone_gyro,1470,H,3570,segment,duplicated segment
+1629,phone_gyro,1471,I,3569,segment,duplicated segment
+1629,phone_gyro,1472,J,3568,segment,duplicated segment
+1629,phone_gyro,1473,K,3578,segment,duplicated segment
+1629,phone_gyro,1474,L,3569,segment,duplicated segment
+1629,phone_gyro,1475,M,3569,segment,duplicated segment
+1629,phone_gyro,1476,O,3569,segment,duplicated segment
+1629,phone_gyro,1477,P,3568,segment,duplicated segment
+1629,phone_gyro,1478,Q,3568,segment,duplicated segment
+1629,phone_gyro,1479,R,3569,segment,duplicated segment
+1629,phone_gyro,1480,S,3570,segment,duplicated segment
+1629,watch_accel,2392,A,3604,segment,duplicated segment
+1629,watch_accel,2393,B,3605,segment,duplicated segment
+1629,watch_accel,2394,C,3605,segment,duplicated segment
+1629,watch_accel,2395,D,3606,segment,duplicated segment
+1629,watch_accel,2396,E,3605,segment,duplicated segment
+1629,watch_accel,2397,F,3605,segment,duplicated segment
+1629,watch_accel,2398,G,3605,segment,duplicated segment
+1629,watch_accel,2399,H,3621,segment,duplicated segment
+1629,watch_accel,2400,I,3605,segment,duplicated segment
+1629,watch_accel,2401,J,3605,segment,duplicated segment
+1629,watch_accel,2402,K,3605,segment,duplicated segment
+1629,watch_accel,2403,L,3605,segment,duplicated segment
+1629,watch_accel,2404,M,3604,segment,duplicated segment
+1629,watch_accel,2405,O,3605,segment,duplicated segment
+1629,watch_accel,2406,P,3604,segment,duplicated segment
+1629,watch_accel,2407,Q,3605,segment,duplicated segment
+1629,watch_accel,2408,R,3605,segment,duplicated segment
+1629,watch_accel,2409,S,3605,segment,duplicated segment
+1629,watch_gyro,3327,A,3603,segment,duplicated segment
+1629,watch_gyro,3328,B,3603,segment,duplicated segment
+1629,watch_gyro,3329,C,3603,segment,duplicated segment
+1629,watch_gyro,3330,D,3604,segment,duplicated segment
+1629,watch_gyro,3331,E,3603,segment,duplicated segment
+1629,watch_gyro,3332,F,3603,segment,duplicated segment
+1629,watch_gyro,3333,G,3603,segment,duplicated segment
+1629,watch_gyro,3334,H,3619,segment,duplicated segment
+1629,watch_gyro,3335,I,3603,segment,duplicated segment
+1629,watch_gyro,3336,J,3603,segment,duplicated segment
+1629,watch_gyro,3337,K,3603,segment,duplicated segment
+1629,watch_gyro,3338,L,3603,segment,duplicated segment
+1629,watch_gyro,3339,M,3602,segment,duplicated segment
+1629,watch_gyro,3340,O,3603,segment,duplicated segment
+1629,watch_gyro,3341,P,3602,segment,duplicated segment
+1629,watch_gyro,3342,Q,3603,segment,duplicated segment
+1629,watch_gyro,3343,R,3603,segment,duplicated segment
+1629,watch_gyro,3344,S,3603,segment,duplicated segment
+1641,phone_accel,766,Q,8933,segment_pairing,no_overlapping_gyro_segment
+1642,phone_accel,776,J,8931,segment_pairing,no_overlapping_gyro_segment
+1644,phone_accel,813,L,8931,segment_pairing,no_overlapping_gyro_segment
+1637,watch_accel,2538,C,8931,segment_pairing,no_overlapping_gyro_segment
+1638,watch_accel,2560,H,8931,segment_pairing,no_overlapping_gyro_segment
+1638,watch_accel,2566,O,8936,segment_pairing,no_overlapping_gyro_segment
+1640,watch_accel,2590,C,8932,segment_pairing,no_overlapping_gyro_segment
+1640,watch_accel,2592,E,8934,segment_pairing,no_overlapping_gyro_segment
+1642,phone_gyro,1703,J,4463,segment_pairing,no_overlapping_accel_segment
