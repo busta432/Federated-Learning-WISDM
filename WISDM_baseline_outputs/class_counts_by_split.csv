@@ -1,0 +1,19 @@
+Activity_Code,name,train,validation,test
+A,Walking,529,170,170
+B,Jogging,512,170,170
+C,Stairs,475,170,170
+D,Sitting,529,170,170
+E,Standing,511,170,170
+F,Typing,513,170,170
+G,Brushing Teeth,528,170,170
+H,Eating Soup,511,170,170
+I,Eating Chips,529,170,170
+J,Eating Pasta,511,170,170
+K,Drinking from Cup,528,170,170
+L,Eating Sandwich,511,170,170
+M,Kicking Soccerball,528,170,164
+O,Playing Catch with Tennis Ball,494,170,165
+P,Dribbling Basketball,529,170,170
+Q,Writing,528,170,170
+R,Clapping,527,170,170
+S,Folding Clothes,528,170,170

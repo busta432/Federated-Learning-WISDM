@@ -1,0 +1,113 @@
+true,pred,true_name,pred_name,count,share_of_true_class
+H,J,Eating Soup,Eating Pasta,58,0.3411764705882353
+L,I,Eating Sandwich,Eating Chips,45,0.2647058823529412
+L,K,Eating Sandwich,Drinking from Cup,37,0.21764705882352942
+D,Q,Sitting,Writing,32,0.18823529411764706
+J,L,Eating Pasta,Eating Sandwich,30,0.17647058823529413
+A,C,Walking,Stairs,29,0.17058823529411765
+R,G,Clapping,Brushing Teeth,25,0.14705882352941177
+H,L,Eating Soup,Eating Sandwich,23,0.13529411764705881
+G,L,Brushing Teeth,Eating Sandwich,22,0.12941176470588237
+C,A,Stairs,Walking,22,0.12941176470588237
+I,K,Eating Chips,Drinking from Cup,22,0.12941176470588237
+I,L,Eating Chips,Eating Sandwich,20,0.11764705882352941
+L,H,Eating Sandwich,Eating Soup,20,0.11764705882352941
+M,C,Kicking Soccerball,Stairs,19,0.11176470588235295
+D,E,Sitting,Standing,19,0.11176470588235295
+R,P,Clapping,Dribbling Basketball,19,0.11176470588235295
+J,H,Eating Pasta,Eating Soup,18,0.10588235294117647
+E,L,Standing,Eating Sandwich,18,0.10588235294117647
+K,H,Drinking from Cup,Eating Soup,16,0.09411764705882353
+K,L,Drinking from Cup,Eating Sandwich,16,0.09411764705882353
+L,J,Eating Sandwich,Eating Pasta,16,0.09411764705882353
+F,E,Typing,Standing,14,0.08235294117647059
+F,H,Typing,Eating Soup,14,0.08235294117647059
+P,O,Dribbling Basketball,Playing Catch with Tennis Ball,13,0.07647058823529412
+I,J,Eating Chips,Eating Pasta,13,0.07647058823529412
+I,H,Eating Chips,Eating Soup,11,0.06470588235294118
+G,R,Brushing Teeth,Clapping,11,0.06470588235294118
+O,P,Playing Catch with Tennis Ball,Dribbling Basketball,11,0.06470588235294118
+L,G,Eating Sandwich,Brushing Teeth,10,0.058823529411764705
+K,G,Drinking from Cup,Brushing Teeth,10,0.058823529411764705
+K,I,Drinking from Cup,Eating Chips,8,0.047058823529411764
+C,M,Stairs,Kicking Soccerball,8,0.047058823529411764
+D,K,Sitting,Drinking from Cup,8,0.047058823529411764
+A,M,Walking,Kicking Soccerball,8,0.047058823529411764
+H,K,Eating Soup,Drinking from Cup,8,0.047058823529411764
+F,D,Typing,Sitting,8,0.047058823529411764
+P,B,Dribbling Basketball,Jogging,7,0.041176470588235294
+D,L,Sitting,Eating Sandwich,6,0.03529411764705882
+L,Q,Eating Sandwich,Writing,6,0.03529411764705882
+D,F,Sitting,Typing,6,0.03529411764705882
+I,F,Eating Chips,Typing,5,0.029411764705882353
+I,G,Eating Chips,Brushing Teeth,5,0.029411764705882353
+H,G,Eating Soup,Brushing Teeth,5,0.029411764705882353
+G,I,Brushing Teeth,Eating Chips,5,0.029411764705882353
+C,S,Stairs,Folding Clothes,5,0.029411764705882353
+D,H,Sitting,Eating Soup,5,0.029411764705882353
+S,J,Folding Clothes,Eating Pasta,5,0.029411764705882353
+M,A,Kicking Soccerball,Walking,5,0.029411764705882353
+E,H,Standing,Eating Soup,4,0.023529411764705882
+G,J,Brushing Teeth,Eating Pasta,4,0.023529411764705882
+M,O,Kicking Soccerball,Playing Catch with Tennis Ball,4,0.023529411764705882
+K,F,Drinking from Cup,Typing,4,0.023529411764705882
+J,I,Eating Pasta,Eating Chips,4,0.023529411764705882
+J,K,Eating Pasta,Drinking from Cup,3,0.01764705882352941
+C,O,Stairs,Playing Catch with Tennis Ball,3,0.01764705882352941
+G,E,Brushing Teeth,Standing,3,0.01764705882352941
+P,A,Dribbling Basketball,Walking,3,0.01764705882352941
+Q,F,Writing,Typing,3,0.01764705882352941
+P,S,Dribbling Basketball,Folding Clothes,3,0.01764705882352941
+K,Q,Drinking from Cup,Writing,3,0.01764705882352941
+L,F,Eating Sandwich,Typing,3,0.01764705882352941
+J,S,Eating Pasta,Folding Clothes,3,0.01764705882352941
+I,R,Eating Chips,Clapping,3,0.01764705882352941
+J,D,Eating Pasta,Sitting,2,0.011764705882352941
+E,S,Standing,Folding Clothes,2,0.011764705882352941
+F,S,Typing,Folding Clothes,2,0.011764705882352941
+I,E,Eating Chips,Standing,2,0.011764705882352941
+D,J,Sitting,Eating Pasta,2,0.011764705882352941
+F,I,Typing,Eating Chips,2,0.011764705882352941
+E,M,Standing,Kicking Soccerball,2,0.011764705882352941
+I,Q,Eating Chips,Writing,2,0.011764705882352941
+J,Q,Eating Pasta,Writing,2,0.011764705882352941
+S,I,Folding Clothes,Eating Chips,2,0.011764705882352941
+O,M,Playing Catch with Tennis Ball,Kicking Soccerball,2,0.011764705882352941
+R,O,Clapping,Playing Catch with Tennis Ball,2,0.011764705882352941
+E,D,Standing,Sitting,1,0.0058823529411764705
+A,H,Walking,Eating Soup,1,0.0058823529411764705
+A,L,Walking,Eating Sandwich,1,0.0058823529411764705
+D,A,Sitting,Walking,1,0.0058823529411764705
+D,I,Sitting,Eating Chips,1,0.0058823529411764705
+I,A,Eating Chips,Walking,1,0.0058823529411764705
+H,S,Eating Soup,Folding Clothes,1,0.0058823529411764705
+H,Q,Eating Soup,Writing,1,0.0058823529411764705
+G,K,Brushing Teeth,Drinking from Cup,1,0.0058823529411764705
+F,J,Typing,Eating Pasta,1,0.0058823529411764705
+E,C,Standing,Stairs,1,0.0058823529411764705
+E,G,Standing,Brushing Teeth,1,0.0058823529411764705
+E,Q,Standing,Writing,1,0.0058823529411764705
+D,R,Sitting,Clapping,1,0.0058823529411764705
+E,I,Standing,Eating Chips,1,0.0058823529411764705
+E,K,Standing,Drinking from Cup,1,0.0058823529411764705
+J,G,Eating Pasta,Brushing Teeth,1,0.0058823529411764705
+L,D,Eating Sandwich,Sitting,1,0.0058823529411764705
+L,E,Eating Sandwich,Standing,1,0.0058823529411764705
+M,I,Kicking Soccerball,Eating Chips,1,0.0058823529411764705
+M,P,Kicking Soccerball,Dribbling Basketball,1,0.0058823529411764705
+P,E,Dribbling Basketball,Standing,1,0.0058823529411764705
+P,D,Dribbling Basketball,Sitting,1,0.0058823529411764705
+O,R,Playing Catch with Tennis Ball,Clapping,1,0.0058823529411764705
+O,S,Playing Catch with Tennis Ball,Folding Clothes,1,0.0058823529411764705
+M,S,Kicking Soccerball,Folding Clothes,1,0.0058823529411764705
+O,B,Playing Catch with Tennis Ball,Jogging,1,0.0058823529411764705
+O,C,Playing Catch with Tennis Ball,Stairs,1,0.0058823529411764705
+O,I,Playing Catch with Tennis Ball,Eating Chips,1,0.0058823529411764705
+R,K,Clapping,Drinking from Cup,1,0.0058823529411764705
+R,B,Clapping,Jogging,1,0.0058823529411764705
+R,A,Clapping,Walking,1,0.0058823529411764705
+Q,L,Writing,Eating Sandwich,1,0.0058823529411764705
+S,D,Folding Clothes,Sitting,1,0.0058823529411764705
+S,C,Folding Clothes,Stairs,1,0.0058823529411764705
+S,E,Folding Clothes,Standing,1,0.0058823529411764705
+S,Q,Folding Clothes,Writing,1,0.0058823529411764705
