@@ -1,0 +1,4 @@
+PASS: scalar models 2 & 8 with counts 1 and 3 gives 6.5  [got 6.5]
+PASS: one client aggregate equals that client's model  [client 1604, n_k=306]
+PASS: equal counts [1,1] give the plain mean of two clients
+PASS: aggregate does not depend on the client order

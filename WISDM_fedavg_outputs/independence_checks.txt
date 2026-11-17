@@ -1,0 +1,5 @@
+PASS: local training does not change the global state
+PASS: mutating client A does not change client B or the global state
+PASS: mutating the aggregate does not change the client states
+PASS: lr = 0 returns the inital model weights with no updates
+PASS: lr = 0.0 for one full training loop still returns the inital model weights w/o any updates
