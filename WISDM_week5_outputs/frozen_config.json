@@ -1,0 +1,45 @@
+{
+  "frozen_at": "2026-11-20 17:07:47",
+  "machine": "DESKTOP-GOUTMJS",
+  "fedavg_candidates": [
+    {
+      "tag": "fedavg_E1",
+      "local_epochs": 1,
+      "best_round": 100,
+      "best_val_macro_f1": 0.39620203489448563
+    },
+    {
+      "tag": "fedavg_E3",
+      "local_epochs": 3,
+      "best_round": 98,
+      "best_val_macro_f1": 0.5736294003938576
+    }
+  ],
+  "fedavg_selected": {
+    "tag": "fedavg_E3",
+    "local_epochs": 3,
+    "round": 98,
+    "lr": 0.01,
+    "lr_note": "protocol value: both FedAvg candidates at lr 0.01",
+    "rounds_cap": 100,
+    "checkpoint": "WISDM_week5_outputs\\fedavg_selected.pt"
+  },
+  "checkpoint_rule": "max validation pooled Macro F1 (18 labels, zero_division=0), round 0 excluded; ties -> earliest round",
+  "candidate_rule": "max best-round validation Macro F1; ties -> earlier best round, then fewer local epochs",
+  "central_mlp": {
+    "checkpoint": "WISDM_baseline_outputs\\mlp_selected.pt",
+    "lr": 0.075,
+    "epoch": 39
+  },
+  "logreg": {
+    "checkpoint": "WISDM_baseline_outputs\\logreg.joblib"
+  },
+  "scaler": "WISDM_baseline_outputs\\scaler.joblib",
+  "initial_state": "WISDM_baseline_outputs\\mlp_initial_state.pt",
+  "test_manifest": {
+    "file": "test_window_manifest.csv",
+    "n_windows": 3049,
+    "n_users": 10,
+    "sha256": "e619cc79d9d1d197c6e778ec3e3e3b93c473383b6b97204404e061cebeef063c"
+  }
+}

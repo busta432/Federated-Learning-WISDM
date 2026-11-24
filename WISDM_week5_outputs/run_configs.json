@@ -1,0 +1,53 @@
+{
+  "logreg_central": {
+    "method": "Logistic regression",
+    "clients": "pooled (31 training users)",
+    "kind": "sklearn",
+    "checkpoint": "WISDM_baseline_outputs\\logreg.joblib",
+    "selected_at": "converged (lbfgs)",
+    "val_macro_f1": 0.6623288963287309,
+    "training_updates": 171,
+    "update_unit": "lbfgs iterations (full-batch)",
+    "runtime_s": 0.65,
+    "settings": {
+      "C": 1.0,
+      "max_iter": 1000
+    }
+  },
+  "mlp_central": {
+    "method": "Central MLP",
+    "clients": "pooled (31 training users)",
+    "kind": "torch",
+    "checkpoint": "WISDM_baseline_outputs\\mlp_selected.pt",
+    "selected_at": "epoch 39 of 50",
+    "val_macro_f1": 0.723784339342499,
+    "training_updates": 5694,
+    "update_unit": "SGD steps (batch 64) to the selected epoch",
+    "runtime_s": 6.35,
+    "settings": {
+      "lr": 0.075,
+      "batch_size": 64,
+      "max_epochs": 50
+    }
+  },
+  "fedavg_E3": {
+    "method": "FedAvg (E=3)",
+    "clients": "31 original clients (one per training user)",
+    "kind": "torch",
+    "checkpoint": "WISDM_week5_outputs\\fedavg_selected.pt",
+    "selected_at": "round 98 of 100",
+    "val_macro_f1": 0.5736294003938576,
+    "training_updates": 14700,
+    "update_unit": "client SGD steps (batch 64) to the selected round; 98 global rounds",
+    "runtime_s": 16.340403999958653,
+    "settings": {
+      "lr": 0.01,
+      "lr_note": "protocol value: both FedAvg candidates at lr 0.01",
+      "local_epochs": 3,
+      "clients_per_round": 10,
+      "rounds": 100,
+      "seed": 42,
+      "batch_size": 64
+    }
+  }
+}
